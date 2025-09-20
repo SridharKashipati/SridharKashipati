@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SridharKashipati
-- 👀 I’m interested in Java programming , Android App development, etc.
-- 🌱 I’m a Computer Science graduate.
-- 💞️ I’m looking to collaborate on Android App development and JAVA development projects.
-- 📫 You can contact me on sridharkashipati2000@gmail.com
+- 👀 I am a QA Automation Engineer with 3 years of extensive experience in Software Quality Assurance and Test Automation.
+- 🌱 I excel in using tools such as Selenium, WebDriverIO, and Playwright.
+- 💞️ I’m looking to collaborate on Web, API, and Mobile Automation-related projects.
+- 📫 You can contact me at sridharkashipati2000@gmail.com
 
 <!---
 SridharKashipati/SridharKashipati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
